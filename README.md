@@ -1,1 +1,2 @@
-# stat198.github.io
+# STAT 198
+Introduction to Quantitative Finance
